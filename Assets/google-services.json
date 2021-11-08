@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "629917737660",
+    "project_id": "remoteconfigtestbed",
+    "storage_bucket": "remoteconfigtestbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629917737660:android:1e97ccf67fd93f37bae6b9",
+        "android_client_info": {
+          "package_name": "com.xrexpo.testbed.firebasetestbed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629917737660-qrsgld0qr669330em7m44fkrgm9v8g27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQyDuaGJWogk35zdMKzbPbO4xYn6Ejqt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629917737660-qrsgld0qr669330em7m44fkrgm9v8g27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629917737660-3mssvcibk0c7mju0g7trt08v3or9s06e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xrexpo.testbed.firebasetestbed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629917737660:android:0da24ac073f913bebae6b9",
+        "android_client_info": {
+          "package_name": "com.xrspace.firebasetestbed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629917737660-qrsgld0qr669330em7m44fkrgm9v8g27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQyDuaGJWogk35zdMKzbPbO4xYn6Ejqt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629917737660-qrsgld0qr669330em7m44fkrgm9v8g27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629917737660-3mssvcibk0c7mju0g7trt08v3or9s06e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xrexpo.testbed.firebasetestbed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
